@@ -7,6 +7,7 @@
         2: Exploratory Data Analysis
         3: Feature Engineering & Modelling
         4: Findings & Recommendations
+![image](https://user-images.githubusercontent.com/82132543/229544781-00712f6b-8286-4fe5-82ef-492f2a2e432b.png)
 
 
 ## Task 1 - Business Understanding & Hypothesis Framing
